@@ -1,4 +1,4 @@
-# Entro Data Analysis — Take-Home
+# Entro Data Analysis 
 
 Tushar Shandilya · Data & Reporting Lead assignment · November 2026
 
